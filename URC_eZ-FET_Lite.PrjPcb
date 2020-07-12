@@ -241,6 +241,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJASWAHC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for URC_eZ-FET_Lite\Design Rule Check - URC_ezFET_Lite.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -399,7 +403,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-2280DW Printer (Copy 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
