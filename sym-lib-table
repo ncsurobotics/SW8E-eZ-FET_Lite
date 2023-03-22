@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "URC_ezFET_Lite-altium-import")(type "KiCad")(uri "${KIPRJMOD}/URC_ezFET_Lite-altium-import.kicad_sym")(options "")(descr ""))
+)

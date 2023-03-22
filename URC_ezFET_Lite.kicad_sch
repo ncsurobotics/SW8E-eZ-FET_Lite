@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5beb5074-8754-45a7-a361-9f4b435679c4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 92.964 61.722) (size 50.292 33.528) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 341bdc4d-fc41-4743-a68d-8cd272e4c2bd)
+    (property "Sheetname" "core" (at 92.964 61.0104 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "core.kicad_sch" (at 92.964 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "URC_ezFET_Lite"
+        (path "/5beb5074-8754-45a7-a361-9f4b435679c4" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 34.798 56.134) (size 19.812 34.798) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a60d15ff-51b1-4d68-9393-ba1360345dc4)
+    (property "Sheetname" "headers" (at 34.798 55.4224 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "headers.kicad_sch" (at 34.798 91.5166 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "URC_ezFET_Lite"
+        (path "/5beb5074-8754-45a7-a361-9f4b435679c4" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 170.434 61.976) (size 64.516 34.798) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ea115ea3-0e3f-48f4-9838-33bfc9e15677)
+    (property "Sheetname" "usb" (at 170.434 61.2644 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "usb.kicad_sch" (at 170.434 97.3586 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "URC_ezFET_Lite"
+        (path "/5beb5074-8754-45a7-a361-9f4b435679c4" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

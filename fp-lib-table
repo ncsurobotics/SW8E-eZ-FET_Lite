@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AltiumImport")(type "KiCad")(uri "${KIPRJMOD}/AltiumImport.pretty")(options "")(descr ""))
+)
