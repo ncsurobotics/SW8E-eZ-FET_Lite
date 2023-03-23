@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "URC_ezFET_Lite.kicad_pro",
+    "filename": "Standalone_ezFET_Lite.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -503,7 +503,7 @@
   "text_variables": {
     "CONFIGURATIONPARAMETERS": "",
     "CONFIGURATORNAME": "",
-    "DOCUMENTNUMBER": "URC_ez-FET_Lite - 1",
+    "DOCUMENTNUMBER": "Standalone_ez-FET_Lite - 1",
     "DRAWNBY": "Marcus Behel",
     "ISUSERCONFIGURABLE": "",
     "SHEETTOTAL": "3",
